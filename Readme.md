@@ -80,7 +80,7 @@ src/main/resources/
 ```json
 {
   "nomorKtp": "3471010101900001",
-  "namaLengkap": "Ahmad Fauzi Rahmadan",
+  "namaLengkap": "Rinakit Luhur Pambudi",
   "alamat": "Jl. Malioboro No.12, Gedongtengen, Yogyakarta",
   "tanggalLahir": "1990-01-01",
   "jenisKelamin": "Laki-Laki"
